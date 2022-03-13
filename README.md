@@ -30,7 +30,7 @@ Removed from the input:
 ![Neurons, Layers, Activation](https://user-images.githubusercontent.com/92542382/158071949-cee9f2c9-11a9-4957-9a0d-87c6a66f9603.PNG)
 
 
-It is best practive to have at least 3 times the neurons than the number of inputs. I used 3 layers because we had more inputs to process.
+It is best practice to have at least 3 times the neurons than the number of inputs. I used 3 layers because we had more inputs to process.
 
 5.  Were you able to achieve the target model performance?
 
