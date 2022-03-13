@@ -1,5 +1,5 @@
 # Neural_Network_Charity_Analysis
-**Purpose:
+** Purpose:
 
 Create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. 
 
@@ -35,12 +35,18 @@ Yes
 
 ![accuracy](https://user-images.githubusercontent.com/92542382/158072168-ec3af8d4-eec0-43ce-a897-4da40f53d1ed.PNG)
 
-What steps did you take to try and increase model performance?
+6.  What steps did you take to try and increase model performance?
 
-Increase the number of inputs by keeping the column "NAME", binning the values, and encoding them. 
+Increase the number of inputs by keeping the column "NAME", binning the "NAME" values, and encoding them. 
 
 ![names binning](https://user-images.githubusercontent.com/92542382/158072260-4f6d2784-0554-4fb5-9885-a97c64ac17ba.PNG)
 
 ![encoding names](https://user-images.githubusercontent.com/92542382/158072293-4d495cbf-1fd2-4444-8e0c-49bd651d9dec.PNG)
+
+Also increased the neurons from 80/50 and 2 layers:
+
+![Neurons, Layers, Activation](https://user-images.githubusercontent.com/92542382/158072423-9d232aa2-3f8a-4deb-b6ef-96ba2e593f2c.PNG)
+
+
 
 
