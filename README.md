@@ -52,7 +52,7 @@ Also increased the neurons from 80/50 and 2 layers:
 
 ## Summary:
 
-By increasing the number of inputs, the optimized deep learning model had more to learn from in order to make a more accurate decision. A Random Forrest Classifer could have also been used as it can also easily handle outliers and nonlinear data. The number of estimators and tree depth can be increased with a Random Forrest Classifier to mimic the neurons and layers of a Neural Network. 
+By increasing the number of inputs, the optimized deep learning model had more to learn from in order to make a more accurate decision. The acccuracy score was .789. A Random Forrest Classifer could have also been used as it can also easily handle outliers and nonlinear data. The number of estimators and tree depth can be increased with a Random Forrest Classifier to mimic the neurons and layers of a Neural Network. 
 
 
 
