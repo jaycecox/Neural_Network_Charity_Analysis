@@ -3,6 +3,9 @@
 
 Create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. 
 
+## Results:
+
+
 1.	What variable(s) are considered the target(s) for your model?
 
 “Is_Successful” is the target of the model.
@@ -46,6 +49,10 @@ Increase the number of inputs by keeping the column "NAME", binning the "NAME" v
 Also increased the neurons from 80/50 and 2 layers:
 
 ![Neurons, Layers, Activation](https://user-images.githubusercontent.com/92542382/158072423-9d232aa2-3f8a-4deb-b6ef-96ba2e593f2c.PNG)
+
+## Summary:
+
+By increasing the number of inputs, the optimized deep learning model had more to learn from in order to make a more accurate decision. A Random Forrest Classifer could have also been used as it can also easily handle outliers and nonlinear data. The number of estimators and tree depth can be increased with a Random Forrest Classifier to mimic the neurons and layers of a Neural Network. 
 
 
 
