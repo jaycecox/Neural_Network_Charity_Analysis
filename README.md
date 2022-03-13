@@ -32,7 +32,7 @@ Removed from the input:
 
 It is best practive to have at least 3 times the neurons than the number of inputs. I used 3 layers because we had more inputs to process.
 
-6.  Were you able to achieve the target model performance?
+5.  Were you able to achieve the target model performance?
 
 Yes
 
